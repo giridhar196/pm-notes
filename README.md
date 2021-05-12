@@ -8,9 +8,11 @@
 	- Human resource frame
 	- Political frame
 	- Symbolic frame
-
+5. A project life cycle is the sequence of phases that a project goes through from its initiation to its closure. The number and sequence of the cycle are determined by the management
 
 [Answers for part 01](https://github.com/giridhar196/pm-notes/blob/main/Part01_Answers.docx)
+
+
 
 Cheers,
 Giridhar
